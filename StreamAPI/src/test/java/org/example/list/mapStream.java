@@ -1,4 +1,4 @@
-package org.example;
+package org.example.list;
 import java.util.stream.*;
 public class mapStream {
     //Using Stream map(Function mapper) to
